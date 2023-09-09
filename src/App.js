@@ -4,6 +4,7 @@ const App = () => {
     <div>
       <center>
         <h2>HAPPYJOB</h2>
+        <h3>ENJOY</h3>
       </center>
     </div>
   )
